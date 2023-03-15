@@ -1,3 +1,4 @@
+//wap to implement insertion sort
 #include<stdio.h>
 void InsertionSort(int A[],int n) {
 		for(int i=1;i<n;i++) {
